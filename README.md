@@ -1,5 +1,9 @@
 ## Hi there 👋
+I'm Trương Điền Quốc Bảo, a software engineer based in Vietnam
 
+I want the opportunity to learn more about the process and characteristics of a good software solution, in order to further develop my skills and contribute to building complete, high-quality projects.
+
+My tech stacks is TypeScript, Java, Python, PHP, React/React Native, .NET, Node.js, Express.
 <!--
 **SpaceCattStalin/SpaceCattStalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
