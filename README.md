@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Trương Điền Quốc Bảo, a software engineer based in Vietnam
 
-I want the opportunity to learn more about the process and characteristics of a good software solution, in order to further develop my skills and contribute to building complete, high-quality projects.
+I want the opportunity to learn more about the process and characteristics of a good software solution, in order to further develop my skills and contribute to building complete, high-quality products.
 
 My tech stacks is TypeScript, Java, Python, PHP, React/React Native, .NET, Node.js, Express.
 <!--
